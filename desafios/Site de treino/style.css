@@ -1,0 +1,39 @@
+@charset "UTF-8";
+body{
+    background-color: #e62525fa;
+    color: #D92323;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+p{
+    color: black;
+    font-family:"Poppins 400";
+    font-size: large;
+}
+h1{
+        color:  #ffffff;
+        text-shadow: 2px 2px 6px rgba(0,0,0,0.4);
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul{
+    font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: #fffffff8;
+  li::marker {
+  color:black;
+}
+  }
+.principal{
+    text-align: center;
+}
+h2{
+    color: #ffffff;
+    text-shadow: 2px 2px 6px rgba(0,0,0,0.4)
+}
+div:hover{
+    background-color: #D92323;
+}
+.imagem{
+    text-align: center;
+}
+  
